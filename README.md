@@ -1,2 +1,1 @@
-# book-store
-Its a book commerece project using MERN Stack and Next js.
+This is an Ecommerce demo website built with Next.js and MongoDB.
